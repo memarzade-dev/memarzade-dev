@@ -1,0 +1,5 @@
+- 👋 Hello, I am @memarzade-dev (Ali Memarzade).
+- 👀 I am interested in programming.
+- 🌱 I am learning the living languages of the world.
+- 💞️ I am not looking for cooperation at the moment.
+- 📫 How to contact me? I am not available at the moment.
